@@ -1,0 +1,477 @@
+{
+    "Settings":  [
+                     {
+                         "Setting_ID":  1,
+                         "Setting_Key":  "App_Name",
+                         "Setting_Value":  "Web App Navigator"
+                     },
+                     {
+                         "Setting_ID":  2,
+                         "Setting_Key":  "App_Version",
+                         "Setting_Value":  "1.0.0"
+                     },
+                     {
+                         "Setting_ID":  3,
+                         "Setting_Key":  "Default_Language",
+                         "Setting_Value":  "English"
+                     },
+                     {
+                         "Setting_ID":  4,
+                         "Setting_Key":  "Default_Country_ID",
+                         "Setting_Value":  "1"
+                     },
+                     {
+                         "Setting_ID":  5,
+                         "Setting_Key":  "Default_Category_ID",
+                         "Setting_Value":  "0"
+                     },
+                     {
+                         "Setting_ID":  6,
+                         "Setting_Key":  "Date_Format",
+                         "Setting_Value":  "yyyy-MM-dd"
+                     },
+                     {
+                         "Setting_ID":  7,
+                         "Setting_Key":  "Time_Format",
+                         "Setting_Value":  "HH:mm"
+                     },
+                     {
+                         "Setting_ID":  8,
+                         "Setting_Key":  "Time_Zone",
+                         "Setting_Value":  "Africa/Cairo"
+                     },
+                     {
+                         "Setting_ID":  9,
+                         "Setting_Key":  "Page_Size",
+                         "Setting_Value":  "25"
+                     },
+                     {
+                         "Setting_ID":  10,
+                         "Setting_Key":  "Auto_Refresh",
+                         "Setting_Value":  "true"
+                     },
+                     {
+                         "Setting_ID":  11,
+                         "Setting_Key":  "Refresh_Interval",
+                         "Setting_Value":  "300"
+                     },
+                     {
+                         "Setting_ID":  12,
+                         "Setting_Key":  "Debug_Mode",
+                         "Setting_Value":  "false"
+                     }
+                 ],
+    "Themes":  [
+                   {
+                       "Theme_ID":  1,
+                       "Theme_Key":  "Theme_Name",
+                       "Theme_Value":  "Default"
+                   },
+                   {
+                       "Theme_ID":  2,
+                       "Theme_Key":  "Primary_Color",
+                       "Theme_Value":  "#FF9800"
+                   },
+                   {
+                       "Theme_ID":  3,
+                       "Theme_Key":  "Secondary_Color",
+                       "Theme_Value":  "#424242"
+                   },
+                   {
+                       "Theme_ID":  4,
+                       "Theme_Key":  "Accent_Color",
+                       "Theme_Value":  "#FF9800"
+                   },
+                   {
+                       "Theme_ID":  5,
+                       "Theme_Key":  "Background_Color",
+                       "Theme_Value":  "#FFFFFF"
+                   },
+                   {
+                       "Theme_ID":  6,
+                       "Theme_Key":  "Surface_Color",
+                       "Theme_Value":  "#F5F5F5"
+                   },
+                   {
+                       "Theme_ID":  7,
+                       "Theme_Key":  "Text_Color",
+                       "Theme_Value":  "#212121"
+                   },
+                   {
+                       "Theme_ID":  8,
+                       "Theme_Key":  "Text_Secondary_Color",
+                       "Theme_Value":  "#757575"
+                   },
+                   {
+                       "Theme_ID":  9,
+                       "Theme_Key":  "Border_Color",
+                       "Theme_Value":  "#E0E0E0"
+                   },
+                   {
+                       "Theme_ID":  10,
+                       "Theme_Key":  "Success_Color",
+                       "Theme_Value":  "#4CAF50"
+                   },
+                   {
+                       "Theme_ID":  11,
+                       "Theme_Key":  "Warning_Color",
+                       "Theme_Value":  "#FF9800"
+                   },
+                   {
+                       "Theme_ID":  12,
+                       "Theme_Key":  "Danger_Color",
+                       "Theme_Value":  "#F44336"
+                   },
+                   {
+                       "Theme_ID":  13,
+                       "Theme_Key":  "Info_Color",
+                       "Theme_Value":  "#2196F3"
+                   },
+                   {
+                       "Theme_ID":  14,
+                       "Theme_Key":  "Font_Family",
+                       "Theme_Value":  "Arial"
+                   },
+                   {
+                       "Theme_ID":  15,
+                       "Theme_Key":  "Border_Radius",
+                       "Theme_Value":  "8px"
+                   },
+                   {
+                       "Theme_ID":  16,
+                       "Theme_Key":  "Button_Radius",
+                       "Theme_Value":  "6px"
+                   },
+                   {
+                       "Theme_ID":  17,
+                       "Theme_Key":  "Shadow",
+                       "Theme_Value":  "0 2px 6px rgba(0,0,0,0.15)"
+                   }
+               ],
+    "Labels":  [
+                   {
+                       "Label_ID":  1,
+                       "Label_Key":  "App_Title",
+                       "Label_Value":  "Web App Radyo"
+                   },
+                   {
+                       "Label_ID":  2,
+                       "Label_Key":  "Home",
+                       "Label_Value":  "Home"
+                   },
+                   {
+                       "Label_ID":  3,
+                       "Label_Key":  "Search",
+                       "Label_Value":  "Search"
+                   },
+                   {
+                       "Label_ID":  4,
+                       "Label_Key":  "Settings",
+                       "Label_Value":  "Settings"
+                   },
+                   {
+                       "Label_ID":  5,
+                       "Label_Key":  "Categories",
+                       "Label_Value":  "Categories"
+                   },
+                   {
+                       "Label_ID":  6,
+                       "Label_Key":  "Items",
+                       "Label_Value":  "Items"
+                   },
+                   {
+                       "Label_ID":  7,
+                       "Label_Key":  "Favorites",
+                       "Label_Value":  "Favorites"
+                   },
+                   {
+                       "Label_ID":  8,
+                       "Label_Key":  "Play",
+                       "Label_Value":  "Play"
+                   },
+                   {
+                       "Label_ID":  9,
+                       "Label_Key":  "Pause",
+                       "Label_Value":  "Pause"
+                   },
+                   {
+                       "Label_ID":  10,
+                       "Label_Key":  "Stop",
+                       "Label_Value":  "Stop"
+                   },
+                   {
+                       "Label_ID":  11,
+                       "Label_Key":  "Next",
+                       "Label_Value":  "Next"
+                   },
+                   {
+                       "Label_ID":  12,
+                       "Label_Key":  "Previous",
+                       "Label_Value":  "Previous"
+                   },
+                   {
+                       "Label_ID":  13,
+                       "Label_Key":  "Volume",
+                       "Label_Value":  "Volume"
+                   },
+                   {
+                       "Label_ID":  14,
+                       "Label_Key":  "Loading",
+                       "Label_Value":  "Loading..."
+                   },
+                   {
+                       "Label_ID":  15,
+                       "Label_Key":  "No_Data",
+                       "Label_Value":  "No data available"
+                   },
+                   {
+                       "Label_ID":  16,
+                       "Label_Key":  "Error",
+                       "Label_Value":  "Error"
+                   },
+                   {
+                       "Label_ID":  17,
+                       "Label_Key":  "Save",
+                       "Label_Value":  "Save"
+                   },
+                   {
+                       "Label_ID":  18,
+                       "Label_Key":  "Cancel",
+                       "Label_Value":  "Cancel"
+                   },
+                   {
+                       "Label_ID":  19,
+                       "Label_Key":  "Close",
+                       "Label_Value":  "Close"
+                   },
+                   {
+                       "Label_ID":  20,
+                       "Label_Key":  "Back",
+                       "Label_Value":  "Back"
+                   },
+                   {
+                       "Label_ID":  21,
+                       "Label_Key":  "Select",
+                       "Label_Value":  "Select"
+                   },
+                   {
+                       "Label_ID":  22,
+                       "Label_Key":  "Clear",
+                       "Label_Value":  "Clear"
+                   },
+                   {
+                       "Label_ID":  23,
+                       "Label_Key":  "Refresh",
+                       "Label_Value":  "Refresh"
+                   }
+               ],
+    "Messages":  [
+                     {
+                         "Message_ID":  1,
+                         "Message_Key":  "Loading_Data",
+                         "Message_Value":  "Loading data..."
+                     },
+                     {
+                         "Message_ID":  2,
+                         "Message_Key":  "Data_Loaded",
+                         "Message_Value":  "Wow,Data loaded successfully."
+                     },
+                     {
+                         "Message_ID":  3,
+                         "Message_Key":  "No_Data",
+                         "Message_Value":  "No data available."
+                     },
+                     {
+                         "Message_ID":  4,
+                         "Message_Key":  "No_Results",
+                         "Message_Value":  "No results found."
+                     },
+                     {
+                         "Message_ID":  5,
+                         "Message_Key":  "Select_Item",
+                         "Message_Value":  "Please select an item."
+                     },
+                     {
+                         "Message_ID":  6,
+                         "Message_Key":  "Select_Category",
+                         "Message_Value":  "Please select a category."
+                     },
+                     {
+                         "Message_ID":  7,
+                         "Message_Key":  "Operation_Success",
+                         "Message_Value":  "Operation completed successfully."
+                     },
+                     {
+                         "Message_ID":  8,
+                         "Message_Key":  "Operation_Failed",
+                         "Message_Value":  "Operation failed."
+                     },
+                     {
+                         "Message_ID":  9,
+                         "Message_Key":  "Save_Success",
+                         "Message_Value":  "Saved successfully."
+                     },
+                     {
+                         "Message_ID":  10,
+                         "Message_Key":  "Save_Failed",
+                         "Message_Value":  "Unable to save the data."
+                     },
+                     {
+                         "Message_ID":  11,
+                         "Message_Key":  "Delete_Success",
+                         "Message_Value":  "Deleted successfully."
+                     },
+                     {
+                         "Message_ID":  12,
+                         "Message_Key":  "Delete_Failed",
+                         "Message_Value":  "Unable to delete the data."
+                     },
+                     {
+                         "Message_ID":  13,
+                         "Message_Key":  "Update_Success",
+                         "Message_Value":  "Updated successfully."
+                     },
+                     {
+                         "Message_ID":  14,
+                         "Message_Key":  "Update_Failed",
+                         "Message_Value":  "Unable to update the data."
+                     },
+                     {
+                         "Message_ID":  15,
+                         "Message_Key":  "Connection_Error",
+                         "Message_Value":  "Unable to connect to the data source."
+                     },
+                     {
+                         "Message_ID":  16,
+                         "Message_Key":  "Network_Error",
+                         "Message_Value":  "Network connection error."
+                     },
+                     {
+                         "Message_ID":  17,
+                         "Message_Key":  "Invalid_Data",
+                         "Message_Value":  "The entered data is invalid."
+                     },
+                     {
+                         "Message_ID":  18,
+                         "Message_Key":  "Required_Field",
+                         "Message_Value":  "This field is required."
+                     },
+                     {
+                         "Message_ID":  19,
+                         "Message_Key":  "Confirm_Delete",
+                         "Message_Value":  "Are you sure you want to delete this item?"
+                     },
+                     {
+                         "Message_ID":  20,
+                         "Message_Key":  "Unsaved_Changes",
+                         "Message_Value":  "You have unsaved changes."
+                     },
+                     {
+                         "Message_ID":  21,
+                         "Message_Key":  "Session_Expired",
+                         "Message_Value":  "Your session has expired."
+                     },
+                     {
+                         "Message_ID":  22,
+                         "Message_Key":  "Access_Denied",
+                         "Message_Value":  "You do not have permission to perform this action."
+                     },
+                     {
+                         "Message_ID":  23,
+                         "Message_Key":  "Unexpected_Error",
+                         "Message_Value":  "An unexpected error occurred."
+                     }
+                 ],
+    "Features":  [
+                     {
+                         "Feature_ID":  1,
+                         "Feature_Key":  "Search",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  2,
+                         "Feature_Key":  "Favorites",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  3,
+                         "Feature_Key":  "Categories",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  4,
+                         "Feature_Key":  "Item_Details",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  5,
+                         "Feature_Key":  "Audio_Player",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  6,
+                         "Feature_Key":  "Auto_Play",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  7,
+                         "Feature_Key":  "Volume_Control",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  8,
+                         "Feature_Key":  "Progress_Control",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  9,
+                         "Feature_Key":  "Next_Previous",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  10,
+                         "Feature_Key":  "Random_Play",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  11,
+                         "Feature_Key":  "History",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  12,
+                         "Feature_Key":  "Share",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  13,
+                         "Feature_Key":  "Responsive_Layout",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  14,
+                         "Feature_Key":  "Dark_Mode",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  15,
+                         "Feature_Key":  "Language_Selection",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  16,
+                         "Feature_Key":  "Settings_Page",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  17,
+                         "Feature_Key":  "About_Page",
+                         "Feature_Value":  true
+                     },
+                     {
+                         "Feature_ID":  18,
+                         "Feature_Key":  "Help_Page",
+                         "Feature_Value":  true
+                     }
+                 ]
+}
