@@ -89,6 +89,16 @@
                            "Category_Is_Eliminated":  false,
                            "Category_Eliminating_Justification":  null,
                            "Category_Is_Demanded":  true
+                       },
+                       {
+                           "Category_ID":  11,
+                           "Category_Name":  "Semti Indir",
+                           "Category_Description":  null,
+                           "Category_Notes":  null,
+                           "Category_Create_Date":  "2026-08-16",
+                           "Category_Is_Eliminated":  false,
+                           "Category_Eliminating_Justification":  null,
+                           "Category_Is_Demanded":  true
                        }
                    ],
     "Items":  [
@@ -637,6 +647,19 @@
                       "Item_Eliminating_Justification":  null,
                       "Item_Is_Demanded":  true,
                       "ItemLink_URL":  "https://www.youtube.com/@alejandrahorvath"
+                  },
+                  {
+                      "Item_ID":  56,
+                      "Item_Category_ID":  11,
+                      "Cate":  "Indir",
+                      "Item_Name":  "Semti Indir",
+                      "Item_Description":  "Indir",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-16",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://mp3semti.com/indir-Gokhan-Turkmen-Acik-Adres-ft-Sertab-Erener.html"
                   }
               ]
 }
