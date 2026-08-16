@@ -1,10 +1,84 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <title>Beni Web App Navigator</title>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Web_App_Navigator</title>
+
+    <link rel="stylesheet" href="css/app.css">
+
 </head>
+
 <body>
-    <h1>GitHub Test</h1>
-    <p>BeniWebAppNavigator is working.</p>
+
+
+
+<div id="app">
+
+    <header id="appHeader">
+
+        <h1 id="appTitle">Loading...</h1>
+
+    </header>
+
+
+
+
+     <div id="searchBox">
+
+        <input
+           type="text"
+           id="searchInput"
+           
+           autocomplete="off"
+        >
+
+     </div>
+
+
+    <main id="appMain">
+
+        <section id="categoryView">
+
+            <h2 id="categoryTitle"></h2>
+
+            <div id="categoryList"></div>
+
+        </section>
+
+          <section id="itemView">
+
+          <h2 id="itemTitle"></h2>
+
+
+          <button id="backButton" type="button">
+                ← Back to Categories
+          </button>
+          <div id="itemList"></div>
+
+        </section>
+
+    </main>
+
+    <footer id="appFooter">
+
+        <p id="appStatus"></p>
+
+    </footer>
+
+</div>
+
+
+
+
+<script src="js/config.js?v=2"></script>
+<script src="js/data.js?v=2"></script>
+<script src="js/app.js?v=2"></script>
+
 </body>
+
 </html>
