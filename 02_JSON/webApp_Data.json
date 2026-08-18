@@ -683,6 +683,19 @@
                       "Item_Eliminating_Justification":  null,
                       "Item_Is_Demanded":  true,
                       "ItemLink_URL":  "https://manual.audacityteam.org/index.html"
+                  },
+                  {
+                      "Item_ID":  58,
+                      "Item_Category_ID":  12,
+                      "Cate":  "Learn",
+                      "Item_Name":  "Canva",
+                      "Item_Description":  "Canva Design",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.canva.com/"
                   }
               ]
 }
