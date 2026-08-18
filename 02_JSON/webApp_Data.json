@@ -99,6 +99,16 @@
                            "Category_Is_Eliminated":  false,
                            "Category_Eliminating_Justification":  null,
                            "Category_Is_Demanded":  true
+                       },
+                       {
+                           "Category_ID":  12,
+                           "Category_Name":  "Learn",
+                           "Category_Description":  null,
+                           "Category_Notes":  null,
+                           "Category_Create_Date":  "2026-08-18",
+                           "Category_Is_Eliminated":  false,
+                           "Category_Eliminating_Justification":  null,
+                           "Category_Is_Demanded":  true
                        }
                    ],
     "Items":  [
@@ -660,6 +670,19 @@
                       "Item_Eliminating_Justification":  null,
                       "Item_Is_Demanded":  true,
                       "ItemLink_URL":  "https://mp3semti.com/indir-Gokhan-Turkmen-Acik-Adres-ft-Sertab-Erener.html"
+                  },
+                  {
+                      "Item_ID":  57,
+                      "Item_Category_ID":  12,
+                      "Cate":  "Learn",
+                      "Item_Name":  "Audacity",
+                      "Item_Description":  "Audacity Manual",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://manual.audacityteam.org/index.html"
                   }
               ]
 }
