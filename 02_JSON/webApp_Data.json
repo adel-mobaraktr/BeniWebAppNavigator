@@ -109,6 +109,16 @@
                            "Category_Is_Eliminated":  false,
                            "Category_Eliminating_Justification":  null,
                            "Category_Is_Demanded":  true
+                       },
+                       {
+                           "Category_ID":  13,
+                           "Category_Name":  "NourAlhak",
+                           "Category_Description":  null,
+                           "Category_Notes":  null,
+                           "Category_Create_Date":  "2026-08-18",
+                           "Category_Is_Eliminated":  false,
+                           "Category_Eliminating_Justification":  null,
+                           "Category_Is_Demanded":  true
                        }
                    ],
     "Items":  [
@@ -686,16 +696,146 @@
                   },
                   {
                       "Item_ID":  58,
-                      "Item_Category_ID":  12,
-                      "Cate":  "Learn",
-                      "Item_Name":  "Canva",
-                      "Item_Description":  "Canva Design",
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "gx18wFR9QHA     بإذن الله:إظهار وفصل وإخراج إن كان مسلط عليك أسحار جنيه إمتصاصيه مستنزفه للمعادن والفيتامينات ..",
+                      "Item_Description":  "gx18wFR9QHA     بإذن الله:إظهار وفصل وإخراج إن كان مسلط عليك أسحار جنيه إمتصاصيه مستنزفه للمعادن والفيتامينات ..",
                       "Item_Notes":  null,
                       "Item_Create_Date":  "2026-08-18",
                       "Item_Is_Eliminated":  false,
                       "Item_Eliminating_Justification":  null,
                       "Item_Is_Demanded":  true,
-                      "ItemLink_URL":  "https://www.canva.com/"
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=gx18wFR9QHA"
+                  },
+                  {
+                      "Item_ID":  59,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "cmS0_82i9yM     بإذن الله:إظهار وسحب إن كان عليك رصد بترددات مسحرة منبعثه من البوابات التي فتحوها عند خسوف او كسوف",
+                      "Item_Description":  "cmS0_82i9yM     بإذن الله:إظهار وسحب إن كان عليك رصد بترددات مسحرة منبعثه من البوابات التي فتحوها عند خسوف او كسوف",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=cmS0_82i9yM"
+                  },
+                  {
+                      "Item_ID":  60,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "WWDksF4IDOA     بإذن الله:إظهار وإستأصال إن كان منتشر في جسمك خلايا عنقودية مسحرة جنية بأغلفة طيفية حمراء ...",
+                      "Item_Description":  "WWDksF4IDOA     بإذن الله:إظهار وإستأصال إن كان منتشر في جسمك خلايا عنقودية مسحرة جنية بأغلفة طيفية حمراء ...",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=WWDksF4IDOA"
+                  },
+                  {
+                      "Item_ID":  61,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "E2s-pwBCuqM     بإذن الله إظهاروهلاك إن كان مسلط عليك شياطين سماريين بُعديين وإبطال اسحارهم الجنية الجينية التردديه",
+                      "Item_Description":  "E2s-pwBCuqM     بإذن الله إظهاروهلاك إن كان مسلط عليك شياطين سماريين بُعديين وإبطال اسحارهم الجنية الجينية التردديه",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=E2s-pwBCuqM"
+                  },
+                  {
+                      "Item_ID":  62,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "e8vfFioYrE4     بإذن الله:إظهار وهلاك إن كان مسلط عليك شياطين من أبعاد بُعدية بأغلفة ذرية مسحره. ....",
+                      "Item_Description":  "e8vfFioYrE4     بإذن الله:إظهار وهلاك إن كان مسلط عليك شياطين من أبعاد بُعدية بأغلفة ذرية مسحره. ....",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=e8vfFioYrE4"
+                  },
+                  {
+                      "Item_ID":  63,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "s9Stm9lgzqs     بإذن الله:إظهار إن كان مسلط عليك سحرة الرداء الغلافي التخفي المسحرة ، هلاكهم وابطال سحر جلبهم...",
+                      "Item_Description":  "s9Stm9lgzqs     بإذن الله:إظهار إن كان مسلط عليك سحرة الرداء الغلافي التخفي المسحرة ، هلاكهم وابطال سحر جلبهم...",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=s9Stm9lgzqs"
+                  },
+                  {
+                      "Item_ID":  64,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "cy5gN7-IRUY     بإذن الله:إستهداف سحرة الجن وأسحارهم وشياطينهم الذين يحضرون عند نومك لعمليات شيطانية على جسمك",
+                      "Item_Description":  "cy5gN7-IRUY     بإذن الله:إستهداف سحرة الجن وأسحارهم وشياطينهم الذين يحضرون عند نومك لعمليات شيطانية على جسمك",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=cy5gN7-IRUY"
+                  },
+                  {
+                      "Item_ID":  65,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "9HA8fXp3G1o     بإذن الله:إظهار إن كان حول نفسك حجاب مسحر عتمي يبطل ويخرج وإخراج النفس الجنية الشيطانية الموصولة بها",
+                      "Item_Description":  "9HA8fXp3G1o     بإذن الله:إظهار إن كان حول نفسك حجاب مسحر عتمي يبطل ويخرج وإخراج النفس الجنية الشيطانية الموصولة بها",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=9HA8fXp3G1o"
+                  },
+                  {
+                      "Item_ID":  66,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "daZP1h1Ervk     بإذن الله:إستهداف السحرة واسحارهم الذين ينهكون النفس بالأحاسيس القاسية ويقلبونها إلى آلام عضويه ...",
+                      "Item_Description":  "daZP1h1Ervk     بإذن الله:إستهداف السحرة واسحارهم الذين ينهكون النفس بالأحاسيس القاسية ويقلبونها إلى آلام عضويه ...",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=daZP1h1Ervk"
+                  },
+                  {
+                      "Item_ID":  67,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "3wurBeMwBek     بإذن الله:  إن كان مسلط عليك سحرة يرونك شمسي،قمري،إبطال اسحارهم ونسف دخان سحر عتمي حول النفس الهائمه",
+                      "Item_Description":  "3wurBeMwBek     بإذن الله:  إن كان مسلط عليك سحرة يرونك شمسي،قمري،إبطال اسحارهم ونسف دخان سحر عتمي حول النفس الهائمه",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=3wurBeMwBek"
+                  },
+                  {
+                      "Item_ID":  68,
+                      "Item_Category_ID":  13,
+                      "Cate":  "NourAlhak",
+                      "Item_Name":  "bOERUcebV_Q     بإذن الله:إظهار إن أخذوا من دمك ومزجوه بأسحار ودم ميت عهِدي الوفاة،تجميعه واخراجه واستهداف سحرته...",
+                      "Item_Description":  "bOERUcebV_Q     بإذن الله:إظهار إن أخذوا من دمك ومزجوه بأسحار ودم ميت عهِدي الوفاة،تجميعه واخراجه واستهداف سحرته...",
+                      "Item_Notes":  null,
+                      "Item_Create_Date":  "2026-08-18",
+                      "Item_Is_Eliminated":  false,
+                      "Item_Eliminating_Justification":  null,
+                      "Item_Is_Demanded":  true,
+                      "ItemLink_URL":  "https://www.youtube.com/watch?v=bOERUcebV_Q"
                   }
               ]
 }
